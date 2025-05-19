@@ -16,3 +16,30 @@ Analisar o desempenho dos clubes com base em dados históricos do Brasileirão, 
 
 ## 📁 Estrutura do Projeto
 
+data/
+├── raw/
+├── processed/
+sql/
+notebooks/
+bi/
+docs/
+README.md
+
+## 📊 KPIs que serão avaliados
+
+- Aproveitamento por time
+- Desempenho como mandante/visitante
+- Número de vitórias, empates e derrotas
+- Média de gols marcados e sofridos
+- Posição média na tabela por rodada
+
+## 📅 Cronograma
+
+Em andamento — veja a aba `/docs` ou planilha no repositório.
+
+---
+
+## 👨‍💻 Autor
+
+Lucas Queiroz — Projeto pessoal com fins educativos e de portfólio.
+
