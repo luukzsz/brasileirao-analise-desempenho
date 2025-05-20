@@ -1,4 +1,4 @@
-# Análise de Desempenho dos Clubes no Brasileirão
+  # Análise de Desempenho dos Clubes no Brasileirão
 
 Projeto de portfólio focado na análise de desempenho dos clubes da Série A do Campeonato Brasileiro. Utilizamos SQL para extração e modelagem de dados, e Power BI para visualização e geração de insights.
 
@@ -10,8 +10,7 @@ Analisar o desempenho dos clubes com base em dados históricos do Brasileirão, 
 
 - SQL
 - Power BI
-- Python (para tratamento e apoio na EDA)
-- Excel (para cronograma e planejamento)
+- Python
 - Git e GitHub (versionamento)
 
 ## 📁 Estrutura do Projeto
@@ -43,3 +42,4 @@ brasileirao-analise-desempenho/
 Lucas Queiroz  
 [LinkedIn](https://www.linkedin.com/in/lucasqqueiroz/) | [GitHub](https://github.com/luukzsz)
 
+  
