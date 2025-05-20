@@ -37,6 +37,18 @@ brasileirao-analise-desempenho/
 - Posição média por rodada
 - Evolução ao longo do campeonato
 
+## 🗂️ Dados Utilizados
+
+O dataset principal deste projeto é o **EPL_Results_2000_2025.csv**, contendo informações detalhadas de partidas da Premier League entre as temporadas de 2000 e 2025.
+
+**📌 Resumo dos dados:**
+- **Total de partidas**: 9.380
+- **Número de colunas**: 22
+- **Colunas disponíveis**: `Season`, `MatchDate`, `HomeTeam`, `AwayTeam`, `FullTimeHomeGoals`, `FullTimeAwayGoals`, `FullTimeResult`, `HalfTimeHomeGoals`, `HalfTimeAwayGoals`, `HalfTimeResult`, `HomeShots`, `AwayShots`, `HomeShotsOnTarget`, `AwayShotsOnTarget`, `HomeCorners`, `AwayCorners`, `HomeFouls`, `AwayFouls`, `HomeYellowCards`, `AwayYellowCards`, `HomeRedCards`, `AwayRedCards`
+
+Nenhum dado ausente foi encontrado nas colunas.
+
+
 ## 👨‍💻 Autor
 
 Lucas Queiroz  
