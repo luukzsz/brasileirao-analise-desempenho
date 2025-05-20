@@ -1,0 +1,22 @@
+## Análise Inicial do Dataset
+
+O dataset utilizado neste projeto contém dados de partidas do Campeonato Inglês (Premier League) entre os anos de 2000 e 2025.
+
+### Arquivo analisado  
+- Nome: `EPL_Results_2000_2025.csv`  
+- Quantidade de registros: 9.380 jogos  
+- Número de colunas: 22
+
+### Colunas principais  
+- `Season`: Temporada da partida  
+- `MatchDate`: Data do jogo  
+- `HomeTeam`: Time da casa  
+- `AwayTeam`: Time visitante  
+- `FullTimeHomeGoals` e `FullTimeAwayGoals`: Gols no tempo integral  
+- `FullTimeResult`: Resultado final (V, E, D)  
+- Estatísticas de jogo: chutes, escanteios, faltas, cartões amarelos e vermelhos para cada time
+
+### Dados ausentes  
+Nenhum valor ausente identificado, garantindo integridade para as análises.
+
+---
